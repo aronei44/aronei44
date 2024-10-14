@@ -8,7 +8,6 @@
 - 🌱 I’m currently learning **Laravel**
 - 💬 Ask me about **Laravel and Python**
 - 📫 Reach me at: **arwanimaulana89@gmail.com**
-- ⚡ Fun fact **My Born Date Is 9-9-99**
 
 ## 🚀 My Skills:
 <p align="left"> 
