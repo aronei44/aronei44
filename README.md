@@ -14,7 +14,7 @@
     <a href="https://www.laravel.com" target="_blank"> <img src="https://laravel.com/img/logomark.min.svg"></a>
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
     <a href="https://www.python.org/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/python.png"/>
-    <a href="https://pytorch.org/" target="_blank"> <img src="https://img.icons8.com/?size=100&id=O6SWwpPIM0GB&format=png&color=000000"/>
+    <a href="https://pytorch.org/" target="_blank"> <img src="https://img.icons8.com/?size=48&id=O6SWwpPIM0GB&format=png&color=000000"/>
 
 <br/>
       
