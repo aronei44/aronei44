@@ -15,6 +15,12 @@
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
     <a href="https://www.python.org/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/python.png"/>
     <a href="https://pytorch.org/" target="_blank"> <img src="https://img.icons8.com/?size=48&id=O6SWwpPIM0GB&format=png&color=000000"/>
+    <a href="https://react.dev/" target="_blank"> <img src="https://img.icons8.com/?size=48&id=NfbyHexzVEDk&format=png&color=000000"/>
+    <a href="https://www.postgresql.org/"> <img src="https://img.icons8.com/?size=48&id=Pv4IGT0TSpt8&format=png&color=000000"/>
+    <a href="https://graphql.org/"> <img src="https://img.icons8.com/?size=48&id=KRA1PoZgRrca&format=png&color=000000"/>
+    <a href="https://www.docker.com/"> <img src="https://img.icons8.com/?size=48&id=cdYUlRaag9G9&format=png&color=000000"/>
+    <a href="https://www.keycloak.org/"> <img src="https://img.icons8.com/?size=48&id=37PBwQwtRMDZ&format=png&color=000000"/>
+    <a href="https://nginx.org/"> <img src="https://img.icons8.com/?size=48&id=t2x6DtCn5Zzx&format=png&color=000000"/>
 
 <br/>
       
