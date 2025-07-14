@@ -1,13 +1,9 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hello Internet <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Muhamad Arwani Maulana</h1>
-<h3 align="center">Web Developer From Indonesia</h3>
+<h3 align="center">Senior Fullstack Developer from Indonesia</h3>
 
 
-## 🙋‍♂️ About Me
-- 🌱 I’m currently learning **Laravel**
-- 💬 Ask me about **Laravel and Python**
-- 📫 Reach me at: **arwanimaulana89@gmail.com**
 
 ## 🚀 My Skills:
 <p align="left"> 
@@ -18,6 +14,7 @@
     <a href="https://www.laravel.com" target="_blank"> <img src="https://laravel.com/img/logomark.min.svg"></a>
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
     <a href="https://www.python.org/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/python.png"/>
+    <a href="https://pytorch.org/" target="_blank"> <img src="https://img.icons8.com/?size=100&id=O6SWwpPIM0GB&format=png&color=000000"/>
 
 <br/>
       
@@ -41,7 +38,7 @@
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/muhamad-arwani-maulana-870297199/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.youtube.com/channel/UCHtFCbPhkhuiwIp4epJd2Uw"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+<a href = "https://www.youtube.com/channel/UC75WIwlA5kaO6zdkENEU67Q"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 
 </p>
 
