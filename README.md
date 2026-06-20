@@ -1,50 +1,106 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+# Hi, I'm Muhamad Arwani Maulana 👋
 
-<h1 align="center">Hello Internet <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Muhamad Arwani Maulana</h1>
-<h3 align="center">Senior Fullstack Developer from Indonesia</h3>
+### Software Engineer • AI Engineer • Backend Specialist
 
+I build scalable backend systems, AI-powered applications, cloud infrastructure, and enterprise software.
 
+Currently focused on:
 
-## 🚀 My Skills:
-<p align="left"> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://www.w3schools.com/php/" target="_blank"> <img src="https://img.icons8.com/officexs/50/000000/php-logo.png"/> </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/50/000000/javascript--v2.png"/></a>
-    <a href="https://www.laravel.com" target="_blank"> <img src="https://laravel.com/img/logomark.min.svg"></a>
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
-    <a href="https://www.python.org/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/python.png"/>
-    <a href="https://pytorch.org/" target="_blank"> <img src="https://img.icons8.com/?size=48&id=O6SWwpPIM0GB&format=png&color=000000"/>
-    <a href="https://react.dev/" target="_blank"> <img src="https://img.icons8.com/?size=48&id=NfbyHexzVEDk&format=png&color=000000"/>
-    <a href="https://www.postgresql.org/"> <img src="https://img.icons8.com/?size=48&id=Pv4IGT0TSpt8&format=png&color=000000"/>
-    <a href="https://graphql.org/"> <img src="https://img.icons8.com/?size=48&id=KRA1PoZgRrca&format=png&color=000000"/>
-    <a href="https://www.docker.com/"> <img src="https://img.icons8.com/?size=48&id=cdYUlRaag9G9&format=png&color=000000"/>
-    <a href="https://www.keycloak.org/"> <img src="https://img.icons8.com/?size=48&id=37PBwQwtRMDZ&format=png&color=000000"/>
-    <a href="https://nginx.org/"> <img src="https://img.icons8.com/?size=48&id=t2x6DtCn5Zzx&format=png&color=000000"/>
+* ⚙️ Backend Engineering with Rust, Axum, Python, FastAPI, and Laravel
+* 🤖 Artificial Intelligence & Machine Learning
+* 🏦 Banking & Financial Technology Systems
+* ☁️ Cloud Infrastructure & DevOps
+* 🚀 System Automation & Productivity Tools
 
-<br/>
-      
+---
 
-## 📊 My Github Stats
-<br/>
-<p align="left">
-<a href="https://github.com/aronei44">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aronei44&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aronei44&hide=html&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+## About Me
+
+I'm a software engineer from Indonesia with experience building production systems across banking, government, education, and enterprise sectors.
+
+My work ranges from API architecture and distributed systems to AI research and deployment pipelines.
+
+I enjoy solving complex technical problems and building software that delivers measurable business value.
+
+---
+
+## Technical Expertise
+
+### Backend & System Engineering
+
+![Rust](https://img.shields.io/badge/Rust-000?style=for-the-badge\&logo=rust)
+![Axum](https://img.shields.io/badge/Axum-000?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge\&logo=laravel)
+
+### Frontend Engineering
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38BDF8?style=for-the-badge\&logo=tailwind-css)
+
+### AI & Machine Learning
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge\&logo=opencv)
+![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge\&logo=scikit-learn)
+
+### Infrastructure & DevOps
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge\&logo=nginx)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis)
+
+---
+
+## Featured Projects
+
+### 🏦 Banking Systems
+
+Enterprise banking platform covering:
+
+* Authentication
+* General Ledger
+* Funding
+* Financing
+* Treasury
+* Migration Tools
+* QRIS Management
+* SNAP BI OpenAPI
+
+### 🤖 AI Essay Assessment System
+
+Machine learning system for automated essay evaluation and scoring based on predefined assessment criteria.
+
+### 🧩 ARC AGI Solver
+
+Research project exploring reasoning and generalization techniques for solving ARC (Abstraction and Reasoning Corpus) tasks.
+
+### 🖨️ Banking Printer Driver
+
+Rust-based Windows device driver enabling communication between banking applications and thermal printers over USB and Bluetooth.
+
+---
+
+## GitHub Stats
+
+<p align="center">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aronei44&show_icons=true&theme=tokyonight&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aronei44&layout=compact&theme=tokyonight"/>
 </p>
-<br/>
-      
-## Connect with me:
-<p align="left">
 
-<a href = "https://www.linkedin.com/in/muhamad-arwani-maulana-870297199/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.youtube.com/channel/UC75WIwlA5kaO6zdkENEU67Q"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+---
 
-</p>
+## Connect With Me
 
-## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=aronei44">
-</a>
-<a href="https://github.com/aronei44?tab=followers"><img src="https://img.shields.io/github/followers/zidane-sc?label=Followers&style=social" alt="GitHub Badge"></a>
+* 🌐 Portfolio: https://aronei44.github.io/
+* 💼 LinkedIn: https://www.linkedin.com/in/muhamad-arwani-maulana
+* 📧 Email: [arwanimaulana89@gmail.com](mailto:arwanimaulana89@gmail.com)
+
+---
+
+> Building reliable software for businesses, automation, and AI.
